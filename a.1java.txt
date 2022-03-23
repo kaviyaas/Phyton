@@ -1,0 +1,7 @@
+class a{
+	public Static void main(String args[]){
+	int i=10;
+	Integer i=Integer.valueof(i);
+	System.out.println(i);
+	}
+}
